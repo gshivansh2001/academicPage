@@ -13,27 +13,23 @@ title                    : "Shivansh Gupta"
 title_separator          : "-"
 name                     : &name "Shivansh Gupta"
 description              : &description "Shivansh Gupta"
-url                      : https://gshivansh2001.github.io/gshivansh.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gshivansh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gshivansh2001/gshivansh.github.io"
+repository               : "gshivansh2001/academicPage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0604.JPG"
+  avatar           : "DSC_0604.png"
   name             : "Shivansh Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doctoral Research Associate @ ISB | Information Systems | Computational Social Sciences | Econometrics"
   location         : "Hyderabad, India"
   employer         : "Indian School of Business"
   uri              : # URL
-  email            : shivansh_gupta@isb.edu
-  links:
-    - label: "shivansh_gupta@isb.edu"
-      icon: "fas fa-envelope"
-      url: "mailto:shivansh_gupta@isb.edu"
+  email            : "shivansh_gupta@isb.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,8 +45,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"gshivansh2001"
-  kaggle           : #"shivanshgupta67"
+  github           : #"ashishpanchal33"
+  kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -71,14 +67,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : #"Shivans69616284"
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
