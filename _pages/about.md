@@ -16,7 +16,7 @@ I’m Shivansh, and I am interested primarily in the multidisciplinary domain of
 
 At the moment, I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vasundhara Sharma](https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma).
 
-<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my </p> [CV](https://gshivansh2001.github.io/academicPage//cv/).
+<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my <a href="https://gshivansh2001.github.io/academicPage//cv/">CV</a>.</p>
 
 <h3 >Research Insterests</h3>
 <p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
@@ -39,7 +39,7 @@ To learn more about my recent explorations, please visit my [Research](https://g
 <h3>More than Research</h3>
 
 <p style="text-align: justify;">
-Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/academicPage//year-archive/" target="_blank">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/academicPage//teaching/" target="_blank">Beyond Research</a> section of my site.
+Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/academicPage//year-archive/">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/academicPage//teaching/">Beyond Research</a> section of my site.
 </p>
 
 Feel free to connect with me on the platforms below:
