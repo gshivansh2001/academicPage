@@ -25,16 +25,16 @@ At the moment, I am working as a **Research Associate** at the **Indian School o
 
 <p style="text-align: justify;">My current research focuses on platform governance, reputation mechanisms, and user reviews—tools that claim to promote trust and transparency, but often conceal deeper social dynamics and structural inequities. These systems are far from neutral, and I strongly believe data-driven research can help surface these hidden patterns and inform better, more inclusive design.</p>
 
-<p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" can we help platforms evolve responsibly in the face of shifting user behaviours.</p>
+<p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" we can help platforms evolve responsibly in the face of shifting user behaviours.</p>
   
 To learn more about my recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
 
 <h3 id="update">Update!</h3>
 
 - I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!
-- [01-01-2025] Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25" target="_blank">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi.
-- [14-12-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024" target="_blank">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
-- [02-12-2024] Joined the SRITNIE team at ISB and started working as a pre-doctoral researcher in the Information Systems Department.
+- [01-01-2025] Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi.
+- [14-12-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
+- [02-12-2024] Joined the <a href="https://www.isb.edu/faculty-and-research/srini-raju-centre-for-it-and-the-networked-economy">SRITNE</a> team at ISB and started working as a pre-doctoral researcher in the Information Systems Department.
 
 <h3>Personal Interests</h3>
 
