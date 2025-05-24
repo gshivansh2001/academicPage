@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [Academic CV](/files/CV_Ashish_Panchal_acad.pdf) or [Professional CV (last updated Dec 23)](/files/CV_Ashish_Panchal_prof.pdf)
+Download [Academic CV (last updated May'25)](/files/Shivansh_Professional_Resume_2025.pdf) or [Professional CV (last updated May'25)](/files/Shivansh_Professional_Resume_2025.pdf)
 
 <script>
     function pressBtn(p) {
@@ -39,14 +39,14 @@ Download [Academic CV](/files/CV_Ashish_Panchal_acad.pdf) or [Professional CV (l
 
 
 Education
-======
-* [M.S. in Computer Science](https://www.parchment.com/u/award/faa1551a16ea5402915eda6d54efa156), Georgia Institute of Technology, 2024
-  + <span style="font-size: 0.75em">GPA: 3.8/4.0</span>
-  + <span style="font-size: 0.75em">Related courses: Reinforcement Learning, Deep Learning, Machine Learning, Artificial Intelligence, AI for Robotics, Game AI, Ethics in AI, Data & Visual Analytics, Graduate Algorithms</span>
-   
-* B.E. in Electronics and Telecommunication, Army Institute of Technology (SPPU), India, 2017
-  + <span style="font-size: 0.75em">GPA: 3.561/4.0, (AGIF Scholarship Recipient)</span>
-  + <span style="font-size: 0.75em">Related courses: Soft Computing, Internet of things, Information Theory, System Programming and Microcontrollers</span>
+======   
+* B.Tech in Petroleum Engineering, Indian Institute of Technology (Indian School of Mines), Dhanbad, India, 2019 - 2023
+  + <span style="font-size: 0.75em">GPA: 7.83/10, (MCM Scholarship Recipient)</span>
+  + <span style="font-size: 0.75em">Related courses: Engineering Economics & Finance, Object Oriented Programming, Data mining, Financial Econometrics, Operations Research, Development Economics, Fundamentals of Machine Learning, Data Analytics, International Macroeconomics and Monetary Policy, Reservoir Modelling and Simulation</span>
+
+* Class XII - Science (CBSE), Nalanda Academy, Kota, India, 2016 - 2018
+  + <span style="font-size: 0.75em">GPA: 87.6% </span>
+  + <span style="font-size: 0.75em">Subjects: Physics, Chemistry, Mathematics, English, Physical Education</span>
 
 
 <!-- adding td
