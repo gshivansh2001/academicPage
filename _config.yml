@@ -13,7 +13,7 @@ title                    : "Shivansh Gupta"
 title_separator          : "-"
 name                     : &name "Shivansh Gupta"
 description              : &description "Shivansh Gupta"
-url                      : https://gshivansh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gshivansh2001.github.io/academicPage/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gshivansh2001/academicPage"
 
@@ -22,7 +22,7 @@ repository               : "gshivansh2001/academicPage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0604.png"
+  avatar           : "DSC_0604.JPG"
   name             : "Shivansh Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doctoral Research Associate @ ISB | Information Systems | Computational Social Sciences | Econometrics"
