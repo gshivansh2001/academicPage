@@ -37,8 +37,8 @@ main:
   #- title: "Helping People"
   #  url: /year-archive/
     
-  - title: "My Art! and other things"
-    url: /year-archive/  
+  #- title: "My Art! and other things"
+   # url: /year-archive/  
     
   #- title: "Guide"
   #  url: /markdown/
