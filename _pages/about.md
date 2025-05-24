@@ -36,7 +36,7 @@ To learn more about my recent explorations, please visit my [Research](https://g
 - [14-12-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024" target="_blank">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
 - [02-12-2024] Joined the SRITNIE team at ISB and started working as a pre-doctoral researcher in the Information Systems Department.
 
-<h3>More than Research</h3>
+<h3>Personal Interests</h3>
 
 <p style="text-align: justify;">
 Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/academicPage//year-archive/">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/academicPage//teaching/">Beyond Research</a> section of my site.
