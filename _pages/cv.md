@@ -44,11 +44,6 @@ Education
   + <span style="font-size: 0.75em">GPA: 7.83/10, (MCM Scholarship Recipient)</span>
   + <span style="font-size: 0.75em">Related courses: Engineering Economics & Finance, Object Oriented Programming, Data mining, Financial Econometrics, Operations Research, Development Economics, Fundamentals of Machine Learning, Data Analytics, International Macroeconomics and Monetary Policy, Reservoir Modelling and Simulation</span>
 
-* Class XII - Science (CBSE), Nalanda Academy, Kota, India, 2016 - 2018
-  + <span style="font-size: 0.75em">GPA: 87.6% </span>
-  + <span style="font-size: 0.75em">Subjects: Physics, Chemistry, Mathematics, English, Physical Education</span>
-
-
 <!-- adding td
 td {
   padding: 0px 20px 0px 20px;
@@ -69,11 +64,6 @@ td.pub-avatar {
 td.pub-description {
   width: 65%;
 }--> 
-
-
-
-
-
 
 
 Work experience
