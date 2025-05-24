@@ -25,9 +25,9 @@ At the moment, I am working as a **Research Associate** at the **Indian School o
 
 <p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" can we help platforms evolve responsibly in the face of shifting user behaviours.</p>
   
-To learn more about my recent explorations, please visit my [Research](https://gshivansh2001.github.io/gshivansh.github.io//publications/) page. 
+To learn more about my recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
 
-<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
+<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my [CV](https://gshivansh2001.github.io/academicPage//cv/).
 
 <h3 id="update">Update!</h3>
 
@@ -39,7 +39,7 @@ To learn more about my recent explorations, please visit my [Research](https://g
 <h3>More than Research</h3>
 
 <p style="text-align: justify;">
-Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/gshivansh.github.io//year-archive/" target="_blank">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/gshivansh.github.io//teaching/" target="_blank">Beyond Research</a> section of my site.
+Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/academicPage//year-archive/" target="_blank">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/academicPage//teaching/" target="_blank">Beyond Research</a> section of my site.
 </p>
 
 Feel free to connect with me on the platforms below:
