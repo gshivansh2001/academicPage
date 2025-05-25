@@ -181,7 +181,7 @@ Work experience - Industry
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech-thumbnail.png" alt="HCLTech Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCL.png" alt="HCLTech Logo" width="80" /><br>
           <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
