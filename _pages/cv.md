@@ -106,7 +106,7 @@ Work experience - Research
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
           <b>Project Intern</b><br>
-          <br><b>Team:</b> <a href="https://sites.google.com/view/dail-lab/home?authuser=0" target="_blank">Mine Digitalization and Artificial Intelligence Lab</a><br> <br>
+          <br><b>Team:</b> <a href="https://sites.google.com/view/dail-lab/home?authuser=0" target="_blank">Mine Digitalization and Artificial Intelligence Lab</a><br> 
           <br><b>Advisor:</b> <a href="https://www.linkedin.com/in/siddharth-agarwal-86179613/">Prof. Siddharth Agarwal</a>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
