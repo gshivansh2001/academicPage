@@ -102,13 +102,13 @@ Work experience
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech Logo.jpg" alt="HCLTech & Chevron Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="HCLTech & Chevron Logo" width="80" /><br>
           <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br><b>Client:</b> Chevron<br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
           <b>Data Scientist</b><br>
           <br><b>Team:</b> Oil & Gas Consulting<br>
-          <br><b>Manager:</b> <a href="https://www.linkedin.com/in/deepak-bhardwaj-08a0278/">Deepak Bhardwaj</a>
+          <br><b>Manager:</b> <a href="https://www.linkedin.com/in/jaspreet-singh-86bb2319/">Jaspreet Singh</a>
           <br><b>Product Owner:</b> <a href="https://www.linkedin.com/in/lshapirosf/">Leonid Shapiro</a>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
@@ -122,6 +122,49 @@ Work experience
           </ul>
         </td>
       </tr>
+      <br>
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="HCLTech Logo" width="80" /><br>
+          <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Machine Learning Intern</b><br>
+          <br><b>Team:</b> Oil & Gas Consulting<br>
+          <br><b>Manager:</b> <a href="https://www.linkedin.com/in/deepak-bhardwaj-08a0278/">Deepak Bhardwaj</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Jul'23 - Nov'24</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Developed adaptive ML-based alarm system using Random Forest in Python for early detection of kicks and blowouts in O&G wells, using Equinor’s Volve dataset.</li>
+            <li>Addressed imbalance in the dataset with SMOTE. Trained supervised ML models using Sklearn & TensorFlow for optimal prediction results.</li>
+            <li>Conducted extensive data preprocessing & EDA using seaborn & pandas. Implemented a method to label kicks in the dataset using DDRs & lithological parameters.</li>
+            <li>A patent was filed (in progress) for the data labelling mechanism used in the model. Received pre-placement offer upon completion</li>
+          </ul>
+        </td>
+      </tr>
+      <br>
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="HCLTech Logo" width="80" /><br>
+          <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Machine Learning Intern</b><br>
+          <br><b>Team:</b> Oil & Gas Consulting<br>
+          <br><b>Manager:</b> <a href="https://www.linkedin.com/in/deepak-bhardwaj-08a0278/">Deepak Bhardwaj</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Jul'23 - Nov'24</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Developed adaptive ML-based alarm system using Random Forest in Python for early detection of kicks and blowouts in O&G wells, using Equinor’s Volve dataset.</li>
+            <li>Addressed imbalance in the dataset with SMOTE. Trained supervised ML models using Sklearn & TensorFlow for optimal prediction results.</li>
+            <li>Conducted extensive data preprocessing & EDA using seaborn & pandas. Implemented a method to label kicks in the dataset using DDRs & lithological parameters.</li>
+            <li>A patent was filed (in progress) for the data labelling mechanism used in the model. Received pre-placement offer upon completion</li>
+          </ul>
+        </td>
+      </tr>
+      
 
       
     <tr>
