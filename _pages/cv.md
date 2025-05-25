@@ -125,7 +125,7 @@ Work experience
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="HCLTech Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech-thumbnail.png" alt="HCLTech Logo" width="80" /><br>
           <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
@@ -134,7 +134,7 @@ Work experience
           <br><b>Manager:</b> <a href="https://www.linkedin.com/in/deepak-bhardwaj-08a0278/">Deepak Bhardwaj</a>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
-          <span style="float: right;">Jul'23 - Nov'24</span>
+          <span style="float: right;">May'22 - Aug'22</span>
           <ul style="margin: 8px 0; padding-left: 20px;">
             <li>Developed adaptive ML-based alarm system using Random Forest in Python for early detection of kicks and blowouts in O&G wells, using Equinor’s Volve dataset.</li>
             <li>Addressed imbalance in the dataset with SMOTE. Trained supervised ML models using Sklearn & TensorFlow for optimal prediction results.</li>
@@ -146,21 +146,22 @@ Work experience
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="HCLTech Logo" width="80" /><br>
-          <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br>
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="DGMS Logo" width="80" /><br>
+          <a href="https://www.hcltech.com/" target="_blank">Directorate General of Mine Safety (DGMS)</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
-          <b>Machine Learning Intern</b><br>
-          <br><b>Team:</b> Oil & Gas Consulting<br>
-          <br><b>Manager:</b> <a href="https://www.linkedin.com/in/deepak-bhardwaj-08a0278/">Deepak Bhardwaj</a>
+          <b>Project Intern</b><br>
+          <br><b>Team:</b> <a href="https://sites.google.com/view/dail-lab/home?authuser=0" target="_blank">Mine Digitalization and Artificial Intelligence Lab</a><br> <br>
+          <br><b>Advisor:</b> <a href="https://www.linkedin.com/in/siddharth-agarwal-86179613/">Prof. Siddharth Agarwal</a>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
-          <span style="float: right;">Jul'23 - Nov'24</span>
+          <span style="float: right;">Aug'22 - Feb'23</span>
           <ul style="margin: 8px 0; padding-left: 20px;">
-            <li>Developed adaptive ML-based alarm system using Random Forest in Python for early detection of kicks and blowouts in O&G wells, using Equinor’s Volve dataset.</li>
-            <li>Addressed imbalance in the dataset with SMOTE. Trained supervised ML models using Sklearn & TensorFlow for optimal prediction results.</li>
-            <li>Conducted extensive data preprocessing & EDA using seaborn & pandas. Implemented a method to label kicks in the dataset using DDRs & lithological parameters.</li>
-            <li>A patent was filed (in progress) for the data labelling mechanism used in the model. Received pre-placement offer upon completion</li>
+            <li>Conducted an independent research project analysing the root causes of fatalities in Indian coal and non-coal mines using historical DGMS fatality reports.</li>
+            <li>Developed a customised text mining pipeline using Python's re and nltk libraries to extract structured data from unstructured PDF reports spanning multiple years.</li>
+            <li>Designed and implemented a relational MySQL database to systematically organise fatality records by mine type, location, cause, and year, facilitating longitudinal analysis.</li>
+            <li>Utilized pandas, matplotlib, and plotly to generate analytical visualisations revealing temporal patterns and critical risk factors contributing to mine accidents.</li>
+            <li>The project provided actionable insights into systemic safety failures and informed recommendations for targeted regulatory interventions.</li>
           </ul>
         </td>
       </tr>
