@@ -210,7 +210,7 @@ Skills
 * **Tools**: MS Excel, PowerBI, R Studio, STATA, Azure Cloud (OpenAI Studio, ML Studio, Databricks, Function and Power Apps)
 * **Libraries**: : matplotlib, seaborn, pandas, NumPy, stats models, NLTK, OpenCV, Plotly, spaCy, Scikit - learn
 
-Projects and Publications
+Research and Publications
 ======
 
 Please refer [Projects and Publications](/publications/) page.
@@ -220,18 +220,26 @@ Please refer [Projects and Publications](/publications/) page.
   {% endfor %}</ul> 
 --->
 
+Projects
+======
+
+Please refer [Projects](/talks/) page.
+
+<!--- <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
+--->
+
   
 Social Responsibility
 ======
-* NGO Volunteer - Environmental Synergies in Development (ENSYDE): Promoted e-waste awareness through booths at various conventions. (2017-present)
-* NGO Volunteer - Youth for Seva (YFS): Volunteered with YFS teaching children at government schools. (2018-present)
-* NGO Volunteer -  Youth For Parivarthan: Led community-driven initiatives to clean & revitalize public areas (2018-2022)
+* NGO Volunteer - Kartavya, IIT (ISM) Dhanbad: Volunteered to teach mathematics to class 9th and 10th children in Dhanbad to help them ace their board exams. (2019-2023)
 
-Academic Volunteering and Coordination
+Academic Conferences and Volunteering
 ======
-* WITS conference volunteer (ISB): Event coordination and assistance. [Tracks: 1. ML/AI, 2. DEI, 3. Recommender systems] (2023)
-* WISE conference volunteer (ISB): Track coordinator [ 1. Platforms and Misinformation, 2. AI and governance] (2023)
-* Nvidia Lab Coordinator (AIT): Coordinated Nvidia CUDA programming workshops for students along, and Collaborated with Industry professionals  (2015)
+* Attended ISB-NBER Conference on Information and Competition in the Digital Economy. [14-12-2024]
+* Attended and volunteered at CODE: Conference on the Digital Economy, Indian School of Business, Varanasi. [01-01-2025] 
+
 
 Military Experience
 ======
