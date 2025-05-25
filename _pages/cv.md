@@ -69,28 +69,36 @@ td.pub-description {
 Work experience
 ======
 <!--- <div style="height: 600px; overflow: auto;" id="exp-div"> --->
-<div style=" overflow: auto;" id="exp-div">  
-  <table><tbody>
-    <tr>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="https://gshivansh2001.github.io/academicPage/images/ISB_Logo.jpg" />
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
-      <b>Research Associate</b>
-      <br>
-      <a href="www.isb.edu" target="_blank">Indian School of Business</a>
-      <br>
-      Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
-      <span style="float: right;">Feb. 2023 - present</span>
-      <br>
-      Designed & documented research studies, and created IRB transcripts. 
-      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, I hired & supervised 3 interns.
-      <br>
-      I focused on adaptive decision-making in complex social situations. My work includes developing A2C-DT, a novel reinforcement learning model demonstrating an 86% win rate in strategic game environments, resulting in an AAMAS 2025 submission. I'm also conducting an empirical study using real-world business data, targeting IJOC, and a VR-based human negotiation study, targeting JOB
-      </td>
-    </tr>
+<div style="overflow: auto;" id="exp-div">  
+  <table>
+    <thead>
+      <tr>
+        <th style="padding: 10px 20px; text-align: left; width: 15%;">Organisation</th>
+        <th style="padding: 10px 20px; text-align: left; width: 25%;">Title</th>
+        <th style="padding: 10px 20px; text-align: left; width: 55%;">Experience</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/ISB_Logo.png" alt="ISB Logo" width="80" />
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Research Associate</b><br>
+          <a href="https://www.isb.edu" target="_blank">Indian School of Business</a><br>
+          Department: Information Systems
+          Advisor: <a href="https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma">Dr. Vasundhara Sharma</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Dec. 2024 - Ongoing</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Research Focus: Passionate about applying machine learning (ML) and data science to macroeconomic measures and public policy, aiming to evaluate and enhance their impact on society</li>
+            <li>Conducting a research project on the impact of social movements in the digital world and another project simulating a virtual environment to curb the spread of misinformation in social networks, while supporting professors in academic research and data-driven analyses.</li>
+            <li>Currently working with web scraping tools like Selenium, applying natural language processing (NLP) techniques, and leveraging large language models (LLMs) for text data analysis and generating actionable insights.</li>
+            <li>Methodologies: Econometric Analysis, Structural Modeling & Survery</li>
+          </ul>
+        </td>
+      </tr>
     <br>
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
