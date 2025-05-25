@@ -73,7 +73,7 @@ Work experience
   <table><tbody>
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="/images/ISB_Logo.jpg" />
+      <img src="https://gshivansh2001.github.io/academicPage/images/ISB_Logo.jpg" />
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
       <b>Research Associate</b>
