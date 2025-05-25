@@ -146,7 +146,7 @@ Work experience
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="DGMS Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/academicPage/images/dgms_logo.png" alt="DGMS Logo" width="80" /><br>
           <a href="https://www.hcltech.com/" target="_blank">Directorate General of Mine Safety (DGMS)</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
@@ -165,68 +165,25 @@ Work experience
           </ul>
         </td>
       </tr>
-      
-
-      
-    <tr>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="/images/HCLTech Logo.jpg" />
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
-      <b>Senior Data Scientist</b>
       <br>
-      <a href="https://moneyview.in/" target="_blank">MoneyView</a>
-      <br>
-      Manager: <a href="https://in.linkedin.com/in/antony-cherian-66500515">Antony Cherian</a>
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
-      <span style="float: right;">Nov. 2021 - Feb. 2023</span>
-      <br>
-      I designed and deployed data science solutions to understand and mitigate risk in the Indian credit market, focusing on improving lending policies and customer service.
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="https://www.quantzig.com/wp-content/uploads/2024/08/quantzig-logo.svg" />
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
-      <b>Senior Analytics Consultant</b>
-      <br>
-      Data Science Team lead
-      <br>
-      <a href="https://www.quantzig.com/" target="_blank">Quantzig</a>
-      <br>
-      Manager: <a href="https://in.linkedin.com/in/lalithvelamuri">Lalith Velamuri</a>
-      <br>
-      Senior-Manager: <a href="https://in.linkedin.com/in/sudarshankl">Sudarshan KL</a>
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
-      <span style="float: right;">Jul. 2019 - Nov. 2021</span>
-      <br>
-      I translated business needs into analytical solutions, leading the development of end-to-end pipelines & improving existing models.  I hired & supervised the data science team.
-      </td>
-    </tr>
-    <tr>
-      <td style=";padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;" bgcolor="black">
-      <img src="https://www2.deloitte.com/content/dam/assets/logos/deloitte.svg" />
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
-      <b>Business Technology Analyst</b>
-      <br>
-      <a href="https://www2.deloitte.com/us/en.html" target="_blank">Deloitte US-India</a>
-      <br>
-      Manager: <a href="https://in.linkedin.com/in/hema-chikkanna-b53b48aa">Hema Chikkanna</a>
-      <br>
-      SVP: <a href="https://www.linkedin.com/in/vcbiju">Biju Chacko</a>
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
-      <span style="float: right;">Jun. 2017 - Jul. 2019</span>
-      <br>
-      My work focused on developing and implementing data-driven solutions. For a major gaming company, I performed extensive performance analysis, leveraging key metrics and event logs to assess availability, reliability, and performance.
-      </td>
-    </tr>
-
-    
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/IIMU_Logo.png" alt="IIM Udaipur Logo" width="80" /><br>
+          <a href="https://www.hcltech.com/" target="_blank">Indian Institute of Management (IIM) Udaipur</a><br>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Research Intern</b><br>
+          <br><b>Advisor:</b> <a href="https://www.ashishgalande.com/home">Prof. Ashish Galande</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Aug'22 - Feb'23</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Created a structured dataset of Fortune 500 companies’ tweets through web scraping using Twint and Scrapy in Python to analyse CSR activities and study principles of conscious capitalism.</li>
+            <li> Utilised text analysis and NLP techniques to compute lexical diversity and sentiment scores using NLTK and VADER libraries.</li>
+            <li>Preprocessed and vectorised text, and leveraged sentiment scores to develop a sentiment analysis model using RNN in TensorFlow.</li>
+          </ul>
+        </td>
+      </tr>
   </tbody></table>
 </div>
 
