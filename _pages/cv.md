@@ -94,7 +94,7 @@ Work experience
     <br>
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="https://moneyview.in/images/mv-green-logo-v3Compressed.svg" />
+      <img src="/images/HCLTech Logo.jpg" />
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
       <b>Senior Data Scientist</b>
