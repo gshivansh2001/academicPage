@@ -80,17 +80,17 @@ Work experience
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 15%;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/ISB_Logo.png" alt="ISB Logo" width="80" />
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/ISB_Logo.png" alt="ISB Logo" width="80" /><br>
+          <a href="https://www.isb.edu" target="_blank">Indian School of Business</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
           <b>Research Associate</b><br>
-          <a href="https://www.isb.edu" target="_blank">Indian School of Business</a><br>
-          Department: Information Systems
-          Advisor: <a href="https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma">Dr. Vasundhara Sharma</a>
+          <br><b>Department:</b> Information Systems<br>
+          <br><b>Advisor:</b> <a href="https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma">Dr. Vasundhara Sharma</a>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
-          <span style="float: right;">Dec. 2024 - Ongoing</span>
+          <span style="float: right;">Dec'24 - Ongoing</span>
           <ul style="margin: 8px 0; padding-left: 20px;">
             <li>Research Focus: Passionate about applying machine learning (ML) and data science to macroeconomic measures and public policy, aiming to evaluate and enhance their impact on society</li>
             <li>Conducting a research project on the impact of social movements in the digital world and another project simulating a virtual environment to curb the spread of misinformation in social networks, while supporting professors in academic research and data-driven analyses.</li>
@@ -99,7 +99,31 @@ Work experience
           </ul>
         </td>
       </tr>
-    <br>
+      <br>
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech Logo.jpg" alt="HCLTech & Chevron Logo" width="80" /><br>
+          <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br><b>Client:</b> Chevron<br>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Data Scientist</b><br>
+          <br><b>Team:</b> Oil & Gas Consulting<br>
+          <br><b>Manager:</b> <a href="https://www.linkedin.com/in/deepak-bhardwaj-08a0278/">Deepak Bhardwaj</a>
+          <br><b>Product Owner:</b> <a href="https://www.linkedin.com/in/lshapirosf/">Leonid Shapiro</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Jul'23 - Nov'24</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Working with the AIOps team to develop a supervised machine learning model which analyses Azure Virtual Desktop log data to predict issues to automate and streamline L1 support.</li>
+            <li>Developed a Generative AI application for analysing O&G daily drilling reports (DDRs) to convert them into OSDU-compliant JSON data for direct ingestion in the OSDU environment. Used Azure ML Studio with OpenAI GPT-3.5 Turbo API and LangChain in Python for developing the application and Gradio for developing the interface.</li>
+            <li>Created and managed data pipelines and dashboards for asset management across 800 O&G wells using Azure Databricks, Power BI and internal asset management tools. </li>
+            <li>Developed an application for registering new and reimaged remote desktop data, creating an SQL database for asset management with Azure Function and Power Apps in Python.</li>
+            <li>Contributed to OSDU production and logging practices with DataVedik.</li>
+          </ul>
+        </td>
+      </tr>
+
+      
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
       <img src="/images/HCLTech Logo.jpg" />
