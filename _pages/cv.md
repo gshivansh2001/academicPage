@@ -65,8 +65,7 @@ td.pub-description {
   width: 65%;
 }--> 
 
-
-Work experience
+Work experience - Research
 ======
 <!--- <div style="height: 600px; overflow: auto;" id="exp-div"> --->
 <div style="overflow: auto;" id="exp-div">  
@@ -99,6 +98,63 @@ Work experience
           </ul>
         </td>
       </tr>
+      <br>
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/dgms_logo.png" alt="DGMS Logo" width="80" /><br>
+          <a href="https://www.dgms.gov.in/" target="_blank">Directorate General of Mine Safety (DGMS), Ministry of Labour & Employment, Government of India</a><br>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Project Intern</b><br>
+          <br><b>Team:</b> <a href="https://sites.google.com/view/dail-lab/home?authuser=0" target="_blank">Mine Digitalization and Artificial Intelligence Lab</a><br> <br>
+          <br><b>Advisor:</b> <a href="https://www.linkedin.com/in/siddharth-agarwal-86179613/">Prof. Siddharth Agarwal</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Aug'22 - Feb'23</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Conducted an independent research project analysing the root causes of fatalities in Indian coal and non-coal mines using historical DGMS fatality reports.</li>
+            <li>Developed a customised text mining pipeline using Python's re and nltk libraries to extract structured data from unstructured PDF reports spanning multiple years.</li>
+            <li>Designed and implemented a relational MySQL database to systematically organise fatality records by mine type, location, cause, and year, facilitating longitudinal analysis.</li>
+            <li>Utilized pandas, matplotlib, and plotly to generate analytical visualisations revealing temporal patterns and critical risk factors contributing to mine accidents.</li>
+            <li>The project provided actionable insights into systemic safety failures and informed recommendations for targeted regulatory interventions.</li>
+          </ul>
+        </td>
+      </tr>
+      <br>
+      <tr>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
+          <img src="https://gshivansh2001.github.io/academicPage/images/IIMU_Logo.png" alt="IIM Udaipur Logo" width="80" /><br>
+          <a href="https://www.iimu.ac.in/" target="_blank">Indian Institute of Management (IIM) Udaipur</a><br>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
+          <b>Research Intern</b><br>
+          <br><b>Advisor:</b> <a href="https://www.ashishgalande.com/home">Prof. Ashish Galande</a>
+        </td>
+        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
+          <span style="float: right;">Aug'22 - Feb'23</span>
+          <ul style="margin: 8px 0; padding-left: 20px;">
+            <li>Created a structured dataset of Fortune 500 companies’ tweets through web scraping using Twint and Scrapy in Python to analyse CSR activities and study principles of conscious capitalism.</li>
+            <li> Utilised text analysis and NLP techniques to compute lexical diversity and sentiment scores using NLTK and VADER libraries.</li>
+            <li>Preprocessed and vectorised text, and leveraged sentiment scores to develop a sentiment analysis model using RNN in TensorFlow.</li>
+          </ul>
+        </td>
+      </tr>
+  </tbody></table>
+</div>
+
+Work experience - Industry
+======
+<!--- <div style="height: 600px; overflow: auto;" id="exp-div"> --->
+<div style="overflow: auto;" id="exp-div">  
+  <table>
+    <thead>
+      <tr>
+        <th style="padding: 10px 20px; text-align: left; width: 15%;">Organisation</th>
+        <th style="padding: 10px 20px; text-align: left; width: 25%;">Title</th>
+        <th style="padding: 10px 20px; text-align: left; width: 55%;">Experience</th>
+      </tr>
+    </thead>
+    <tbody>
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
@@ -143,63 +199,16 @@ Work experience
           </ul>
         </td>
       </tr>
-      <br>
-      <tr>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/dgms_logo.png" alt="DGMS Logo" width="80" /><br>
-          <a href="https://www.hcltech.com/" target="_blank">Directorate General of Mine Safety (DGMS)</a><br>
-        </td>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
-          <b>Project Intern</b><br>
-          <br><b>Team:</b> <a href="https://sites.google.com/view/dail-lab/home?authuser=0" target="_blank">Mine Digitalization and Artificial Intelligence Lab</a><br> <br>
-          <br><b>Advisor:</b> <a href="https://www.linkedin.com/in/siddharth-agarwal-86179613/">Prof. Siddharth Agarwal</a>
-        </td>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
-          <span style="float: right;">Aug'22 - Feb'23</span>
-          <ul style="margin: 8px 0; padding-left: 20px;">
-            <li>Conducted an independent research project analysing the root causes of fatalities in Indian coal and non-coal mines using historical DGMS fatality reports.</li>
-            <li>Developed a customised text mining pipeline using Python's re and nltk libraries to extract structured data from unstructured PDF reports spanning multiple years.</li>
-            <li>Designed and implemented a relational MySQL database to systematically organise fatality records by mine type, location, cause, and year, facilitating longitudinal analysis.</li>
-            <li>Utilized pandas, matplotlib, and plotly to generate analytical visualisations revealing temporal patterns and critical risk factors contributing to mine accidents.</li>
-            <li>The project provided actionable insights into systemic safety failures and informed recommendations for targeted regulatory interventions.</li>
-          </ul>
-        </td>
-      </tr>
-      <br>
-      <tr>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/IIMU_Logo.png" alt="IIM Udaipur Logo" width="80" /><br>
-          <a href="https://www.hcltech.com/" target="_blank">Indian Institute of Management (IIM) Udaipur</a><br>
-        </td>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
-          <b>Research Intern</b><br>
-          <br><b>Advisor:</b> <a href="https://www.ashishgalande.com/home">Prof. Ashish Galande</a>
-        </td>
-        <td style="padding: 0px 20px; vertical-align: middle; width: 55%;">
-          <span style="float: right;">Aug'22 - Feb'23</span>
-          <ul style="margin: 8px 0; padding-left: 20px;">
-            <li>Created a structured dataset of Fortune 500 companies’ tweets through web scraping using Twint and Scrapy in Python to analyse CSR activities and study principles of conscious capitalism.</li>
-            <li> Utilised text analysis and NLP techniques to compute lexical diversity and sentiment scores using NLTK and VADER libraries.</li>
-            <li>Preprocessed and vectorised text, and leveraged sentiment scores to develop a sentiment analysis model using RNN in TensorFlow.</li>
-          </ul>
-        </td>
-      </tr>
   </tbody></table>
 </div>
 
   
 Skills
 ======
-* **Programming languages**:  Python, C#, R, Cuda
-* **Programming Tools and Libraries**:
-  * **Reinforcement Learning and Deep Learning**: Transformers(Huggingface), Stable-Baselines3, ClearnRL, Pytorch, Tensorboard, Pettingzoo, Gymnasium(OpenAI Gym) 
-  * **Machine learning and Data Science toolkit**:  NLTK, Scikit-learn, SciPy, NumPy, Pandas, Sparks, Pyarrow, fastparquet
-  * **Visualization Toolkit**: Matplotlib, Seaborn, Plotly, Dash(Plotly), Tableau
-  * **App design**: Dash(Plotly), Flask
-  * Misc : Selenium
-* **Solution Design Experience**: Credit Risk Modeling, Social listening analysis, Fraud detection(fuzzy logic), Sales Forecasting, Market Mix Modeling, Demand forecasting, Attribution Modeling, Analytics Pipeline Design.
-* **Research Experience**: Literature review, Research Study and Experiment Design, Statistical Analysis, Meta-Analysis, IRB transcript and Project report writing.
-* **Management**: Project and Task planning, Call and Client management, Team management.
+* **Programming languages**: C, C++, Python, SQL, R
+* **Framework**: Keras, TensorFlow, Flask, Lang Chain, Gradio, PyTorch, Selenium
+* **Tools**: MS Excel, PowerBI, R Studio, STATA, Azure Cloud (OpenAI Studio, ML Studio, Databricks, Function and Power Apps)
+* **Libraries**: : matplotlib, seaborn, pandas, NumPy, stats models, NLTK, OpenCV, Plotly, spaCy, Scikit - learn
 
 Projects and Publications
 ======
