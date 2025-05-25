@@ -212,7 +212,6 @@ Skills
 
 Research and Publications
 ======
-
 Please refer [Projects and Publications](/publications/) page.
 
 <!--- <ul>{% for post in site.publications reversed %}
@@ -222,7 +221,6 @@ Please refer [Projects and Publications](/publications/) page.
 
 Projects
 ======
-
 Please refer [Projects](/talks/) page.
 
 <!--- <ul>{% for post in site.publications reversed %}
@@ -230,56 +228,38 @@ Please refer [Projects](/talks/) page.
   {% endfor %}</ul> 
 --->
 
-  
-Social Responsibility
-======
-* NGO Volunteer - Kartavya, IIT (ISM) Dhanbad: Volunteered to teach mathematics to class 9th and 10th children in Dhanbad to help them ace their board exams. (2019-2023)
-
 Academic Conferences and Volunteering
 ======
-* Attended ISB-NBER Conference on Information and Competition in the Digital Economy. [14-12-2024]
-* Attended and volunteered at CODE: Conference on the Digital Economy, Indian School of Business, Varanasi. [01-01-2025] 
-
-
-Military Experience
-======
-<div style=" overflow: auto;" id="exp-div">  
-  <table><tbody>
-    <tr>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="/images/NDA.jpeg" />
-      </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
-      <span style="float: right;">Jul. 2013 - Jul 2014</span>
-      <br>
-     Academics and Military Training at the prestigious National Defence Academy (India)
-      </td>
-    </tr>
-  </tbody>
-  </table>
-</div>
+* Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi. [01-01-2025]
+* Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024">ISB-NBER Conference on Information and Competition in the Digital Economy</a>. [14-12-2024]
 
 
 Honors, prizes, awards, and fellowships:
 ======
-* Project selected for CreateX startup lab, Georgia Institute of Technology (2022)
-* Star of the Quarter, Quantzig, Awarded by HOD for exceptional project delivery (2020)
-* Super Star Award, Quantzig, Awarded by VP for exceptional yearly contribution (2020)
-* Spot Award, Deloitte USI, Awarded by HOD (2019)
-* Recommended for Officers Training Academy (Indian Army - Engg.) All-India-Rank: 13 (2018)
-* AGIF Scholarship (Award for academic excellence), Army Institute of Technology, (2015)
-* Recommended for National Defence Academy(Indian Army) All-India-Rank: 107 (of ~ 400,000 applicants) (2013)
+* Achieved top 10th percentile, Univ.AI Data Science hackathon, displaying analytical prowess with an AIR of 96.
+* Headed the SPE IIT (ISM) Student Chapter Editorial, securing the 2022 Student Chapter Excellence Award, awarded to only the top 20% of chapters globally
+* Earned a Bronze medal in the Otto Group Product Classification Kaggle Competition, showcasing expertise in ML and data classification.
+* Secured 2nd position for writing and directing mono-act & 5th position in stage play as director at InterIIT Cultural Meet ’22, outperforming 23 IITs
+* MCM Scholarship (Scholarship for academic excellence), IIT (ISM) Dhanbad
 
 Teaching:
 ======
-* Designed a course and taught Machine Learning, Data Science, and Python programming to new joinees at MoneyView (2021-2023)
-* Mentored second and third-year Bachelor of Engineering students on the practical implementation of industry-relevant projects (2014-2016)
+* Designed a course and taught Machine Learning, Data Science, and Python programming to First Year Joiners at Society of Petroleum Engineering, IIT (SIM) Dhanbad (2021)
+
+Social Responsibility
+======
+* NGO Volunteer - Kartavya, IIT (ISM) Dhanbad: Volunteered to teach mathematics to class 9th and 10th children in Dhanbad to help them ace their board exams. (2019-2023)
+
+Exam Scores
+======
+* IIT JEE, Advanced (2019): AIR 7586, 95.3 Percentile among 1.9 Lakh candidates.
+* IIT JEE, Mains (2019): AIR 5497, 99.52 Percentile among 11. Lakh candidates.
+* CAT - 2023, 98.06 Percentile
 
 Selected Certifications:
 ======
-* Probability - The Science of Uncertainty and Data (2020) – MITx on Edx
-* Fundamentals of Statistics (2020) – MITx on Edx
-* Data Analysis in Social Science(2020) – MITx on Edx
-* Machine Learning with Python-From Linear Models to Deep Learning (2020) – MITx on Edx (MIT 18.650)
-
+* Azure Fundamentals (AZ 900), Microsoft 2023
+* Azure AI Fundamentals (AI 900), Microsoft 2024
+* Azure Power BI Data Analyst (PL 300), Microsoft 2024
+* Deep Learning Specialisation, Deeplearning.ai 2021
 
