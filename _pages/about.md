@@ -31,7 +31,7 @@ Hi! I’m Shivansh, and I’m deeply interested in the multidisciplinary domain 
 To learn more about my interests and recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
 -->
 
-<h3 >Research Insterests</h3>
+<h3 >Research Interests</h3>
 <p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
   
 To learn more about my interests and recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
