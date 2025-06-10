@@ -11,13 +11,14 @@ redirect_from:
 </div>
 
 {: style="text-align: justify" }
-Hi!
-I’m Shivansh, and I am interested primarily in the multidisciplinary domain of Digital Economy.
 
-At the moment, I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vasundhara Sharma](https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma).
+Hi! I’m Shivansh, and I’m deeply interested in the multidisciplinary domain of the Digital Economy, where technology, human behaviour, and institutional structures intersect.
+
+<p style="text-align: justify;"> <b>What I’m Doing Now</b>: I’m currently working as a <b>Research Associate</b> at the <b>Indian School of Business</b>, with <a href="https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma">Professor Vasundhara Sharma</a>, as part of the <a href="https://www.isb.edu/faculty-and-research/srini-raju-centre-for-it-and-the-networked-economy">SRITNE</a> lab in the Information Systems Department.</p>
 
 <p style="text-align: justify;"> <b>Prior Experiences</b>: During the year and a half after earning my degree in Petroleum Engineering, I worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients such as Chevron and ExxonMobil. My work focused on creating and optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience deepened my interest in how data-driven technologies impact organisations and people, ultimately leading me to transition into Information Systems and computational social science research. Further details about my skills and experience are available in my <a href="https://gshivansh2001.github.io/academicPage//cv/">CV</a>.</p>
 
+<!--
 <h3 >Research Insterests</h3>
 <p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
 
@@ -27,11 +28,19 @@ At the moment, I am working as a **Research Associate** at the **Indian School o
 
 <p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" we can help platforms evolve responsibly in the face of shifting user behaviours.</p>
   
-To learn more about my recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
+To learn more about my interests and recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
+-->
+
+<h3 >Research Insterests</h3>
+<p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
+  
+To learn more about my interests and recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
+
+
+<p style="text-align: justify;"> <b>Looking Ahead</b>: I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!</p>
 
 <h3 id="update">Update!</h3>
 
-- I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!
 - [01-01-2025] Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi.
 - [14-12-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
 - [02-12-2024] Joined the <a href="https://www.isb.edu/faculty-and-research/srini-raju-centre-for-it-and-the-networked-economy">SRITNE</a> team at ISB and started working as a pre-doctoral researcher in the Information Systems Department.
@@ -39,8 +48,9 @@ To learn more about my recent explorations, please visit my [Research](https://g
 <h3>Personal Interests</h3>
 
 <p style="text-align: justify;">
-Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/academicPage//year-archive/">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/academicPage//teaching/">Beyond Research</a> section of my site.
+Outside of research, I enjoy reflecting on technology’s societal impact, writing occasionally in my <a href="https://gshivansh2001.github.io/academicPage//year-archive/">blog</a>. I’m also interested in literature and cinema. More on this can be found in the <a href="https://gshivansh2001.github.io/academicPage//teaching/">Beyond Research</a> section of my site.
 </p>
+
 
 Feel free to connect with me on the platforms below:
 
