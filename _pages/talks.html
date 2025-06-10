@@ -1,12 +1,12 @@
----
-layout: archive
-title: "Talks and presentations"
-permalink: /talks/
-author_profile: true
----
+{% include base_path %}
+<!--
+<h3>Research Interests</h3>
+<p style="text-align: justify;">I am interested in how technology and digital platforms shape behavioural, societal, and economic outcomes. I’m particularly fascinated by the way these platforms mediate interactions, influence incentives, and guide both individual and collective decisions. As technology becomes increasingly embedded in what we read, where we go, and whom we trust, understanding these systems is no longer optional—it’s essential.</p>
 
-{% if site.talkmap_link == true %}
+<p style="text-align: justify;">My current research focuses on platform governance, reputation mechanisms, and user reviews—tools that claim to promote trust and transparency, but often conceal deeper social dynamics and structural inequities. These systems are far from neutral, and I strongly believe data-driven research can help surface these hidden patterns and inform better, more inclusive design.</p>
 
+<p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" we can help platforms evolve responsibly in the face of shifting user behaviours.</p>
+-->
 <h3>Working Projects</h3>
 
 <table><tbody>
@@ -96,8 +96,25 @@ author_profile: true
 <h3> Industry Projects</h3>
 <p> Please refer <a href="https://gshivansh2001.github.io/academicPage//talks/">Projects</a> page and <a href="https://gshivansh2001.github.io/academicPage/files/Shivansh_Professional_Resume_2025.pdf">my CV</a> for details on my corporate projects and endeavors.</p>
 
-{% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+
+<!-- New style rendering if publication categories are defined 
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %} -->
