@@ -14,11 +14,10 @@ redirect_from:
 
 Hi! I’m Shivansh, and I’m deeply interested in the multidisciplinary domain of the Digital Economy, where technology, human behaviour, and institutional structures intersect.
 
-<p style="text-align: justify;"> <b>What I’m Doing Now</b>: I’m currently working as a <b>Research Associate</b> at the <b>Indian School of Business</b>, with <a href="https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma">Professor Vasundhara Sharma</a>, as part of the <a href="https://www.isb.edu/faculty-and-research/srini-raju-centre-for-it-and-the-networked-economy">SRITNE</a> lab in the Information Systems Department.</p>
+<p style="text-align: justify;"> I’m currently working as a <b>Research Associate</b> at the <b>Indian School of Business</b>, with <a href="https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma">Professor Vasundhara Sharma</a>, as part of the <a href="https://www.isb.edu/faculty-and-research/srini-raju-centre-for-it-and-the-networked-economy">SRITNE</a> lab in the Information Systems Department.</p>
 
 <p style="text-align: justify;"> <b>Prior Experiences</b>: During the year and a half after earning my degree in Petroleum Engineering, I worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients such as Chevron and ExxonMobil. My work focused on creating and optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience deepened my interest in how data-driven technologies impact organisations and people, ultimately leading me to transition into Information Systems and computational social science research. Further details about my skills and experience are available in my <a href="https://gshivansh2001.github.io/academicPage//cv/">CV</a>.</p>
 
-<!--
 <h3 >Research Insterests</h3>
 <p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
 
@@ -29,15 +28,15 @@ Hi! I’m Shivansh, and I’m deeply interested in the multidisciplinary domain 
 <p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" we can help platforms evolve responsibly in the face of shifting user behaviours.</p>
   
 To learn more about my interests and recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
--->
 
+<!--
 <h3 >Research Interests</h3>
 <p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
   
 To learn more about my interests and recent explorations, please visit my [Research](https://gshivansh2001.github.io/academicPage//publications/) page. 
+-->
 
-
-<p style="text-align: justify;"> <b>Looking Ahead</b>: I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!</p>
+<p><b>Looking Ahead:</b> I am looking out for PhD positions! Please feel free to reach out if you believe we could be a great team!</p>
 
 <h3 id="update">Update!</h3>
 
