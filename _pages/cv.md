@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [Academic CV (last updated May'25)](https://gshivansh2001.github.io/academicPage/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"} or [Professional CV (last updated May'25)](https://gshivansh2001.github.io/academicPage/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"}
+Download [Academic CV (last updated May'25)](https://gshivansh2001.github.io/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"} or [Professional CV (last updated May'25)](https://gshivansh2001.github.io/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"}
 
 <script>
     function pressBtn(p) {
@@ -80,7 +80,7 @@ Work experience - Research
     <tbody>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/ISB_Logo.png" alt="ISB Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/images/ISB_Logo.png" alt="ISB Logo" width="80" /><br>
           <a href="https://www.isb.edu" target="_blank">Indian School of Business</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
@@ -101,7 +101,7 @@ Work experience - Research
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/dgms_logo.png" alt="DGMS Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/images/dgms_logo.png" alt="DGMS Logo" width="80" /><br>
           <a href="https://www.dgms.gov.in/" target="_blank">Directorate General of Mine Safety (DGMS), Ministry of Labour & Employment, Government of India</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
@@ -123,7 +123,7 @@ Work experience - Research
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/IIMU_Logo.png" alt="IIM Udaipur Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/images/IIMU_Logo.png" alt="IIM Udaipur Logo" width="80" /><br>
           <a href="https://www.iimu.ac.in/" target="_blank">Indian Institute of Management (IIM) Udaipur</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
@@ -158,7 +158,7 @@ Work experience - Industry
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCLTech_logo.png" alt="HCLTech & Chevron Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/images/HCLTech_logo.png" alt="HCLTech & Chevron Logo" width="80" /><br>
           <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br><b>Client:</b> Chevron<br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
@@ -181,7 +181,7 @@ Work experience - Industry
       <br>
       <tr>
         <td style="padding: 0px 20px; vertical-align: middle; width: 15%; text-align: center;">
-          <img src="https://gshivansh2001.github.io/academicPage/images/HCL.png" alt="HCLTech Logo" width="80" /><br>
+          <img src="https://gshivansh2001.github.io/images/HCL.png" alt="HCLTech Logo" width="80" /><br>
           <a href="https://www.hcltech.com/" target="_blank">HCLTech</a><br>
         </td>
         <td style="padding: 0px 20px; vertical-align: middle; width: 25%;">
