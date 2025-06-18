@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [Academic CV (last updated May'25)](https://gshivansh2001.github.io/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"} or [Professional CV (last updated May'25)](https://gshivansh2001.github.io/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"}
+Download [Academic CV (last updated May'25)](https://gshivansh2001.github.io/files/Shivansh_Academic_Resume_2025.pdf){:target="_blank"} or [Professional CV (last updated May'25)](https://gshivansh2001.github.io/files/Shivansh_Professional_Resume_2025.pdf){:target="_blank"}
 
 <script>
     function pressBtn(p) {
